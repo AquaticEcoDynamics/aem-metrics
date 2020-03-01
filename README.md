@@ -36,9 +36,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-
-<div class=WordSection1>
-
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=815
  style='margin-left:-49.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
@@ -5538,6 +5535,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
  </tr>
 </table>
 
-<p class=MsoNormal><span lang=EN-AU><o:p>&nbsp;</o:p></span></p>
 
-</div>
