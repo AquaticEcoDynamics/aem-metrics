@@ -1,9 +1,7 @@
 # CSPS
-## CSPS : Multi-level assessment framework for Aquatic Ecosystem Models (AEMs)
+## A multi-level assessment framework for Aquatic Ecosystem Models (AEMs)
 
-You can use the [editor on GitHub](https://github.com/AquaticEcoDynamics/aem-metrics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CSPS is a framework for the hierarchical assessment of aquatic ecosystem models built on a range of metrics and characteristic signatures relevant to aquatic ecosystem condition. The framework is comprised of four levels: 0) conceptual validation; 1) comparison of simulated state variables with observations (‘state validation’); 2) comparison of fluxes (process rates) with measured fluxes (‘process validation’); and 3) comparison of system-level emergent properties, patterns and relationships (‘system validation’). Of these, only levels 0 and 1 are routinely undertaken at present. To highlight a diverse range of contexts relevant to the aquatic ecosystem modelling community, we present several case studies of improved validation approaches using the level 0-3 assessment hierarchy. It is our goal that the community–driven adoption of these metrics will lead to more rigorously assessed models, ultimately accelerating advances in model structure and function, and improved confidence in model predictions
 
 ### Markdown
 
